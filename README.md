@@ -138,4 +138,4 @@ stocks.head()
 
 [.](<a href="https://imgur.com/WdVFnF3"><img src="https://i.imgur.com/WdVFnF3.jpg" title="source: imgur.com" /></a>)
 
-## So as we can see the deep learning model is fairly close to the actual data we have which from a visual standpoint alone would instil a lot of confidence in the user as to the models predictive capabilities. Furthermore, being this entire process was carried out on the cloud, primarily due to local machine shortcomings, the idea of cloud computing doesnt seem to be such a daunting proposition anymore! ##
+### So as we can see the deep learning model is fairly close to the actual data we have which from a visual standpoint alone would instil a lot of confidence in the user as to the models predictive capabilities. Furthermore, being this entire process was carried out on the cloud, primarily due to local machine shortcomings, the idea of cloud computing doesnt seem to be such a daunting proposition anymore! ###
